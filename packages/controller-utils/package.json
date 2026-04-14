@@ -47,7 +47,7 @@
     "@metamask/utils": "^8.3.0",
     "@spruceid/siwe-parser": "2.1.0",
     "@types/bn.js": "^5.1.5",
-    "bn.js": "^5.2.1",
+    "bn.js": "^5.2.3",
     "eth-ens-namehash": "^2.0.8",
     "fast-deep-equal": "^3.1.3"
   },
